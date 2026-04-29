@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://www.instagram.com/p/C-OY-ltx9xN/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C-VKqy-u_Cu/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C1mXTIvvudj/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C2b0TTMLZts/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C2vkMQ4B0qc/",
+        "error": "Fetching Post metadata failed."
+    },
+    {
+        "url": "https://www.instagram.com/p/C5EKPhFMYB4/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C5V0yWcNMWv/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C71DmauxFaj/",
+        "error": "Fetching Post metadata failed."
+    },
+    {
+        "url": "https://www.instagram.com/p/C7C-aAkIEoh/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C84pnD6IK71/",
+        "error": "Fetching Post metadata failed."
+    },
+    {
+        "url": "https://www.instagram.com/p/C8Gg6rTAekX/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C8nuE6iy33j/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C8z4DvitxjV/",
+        "error": "'Post' object has no attribute 'display_url'"
+    },
+    {
+        "url": "https://www.instagram.com/p/C98-cXExFIq/",
+        "error": "'Post' object has no attribute 'display_url'"
+    }
+]
